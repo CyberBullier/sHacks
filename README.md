@@ -1,7 +1,7 @@
 # sHacks
 # Future of Banking 
 
-** Commercial Banking 
+* Commercial Banking 
 ⋅⋅* Mobile Integration 
 ⋅⋅* Rise of widespread mobile banking as deposits, cheques, and investments migrate from traditional/web platforms to mobile
 Non-cash transactions 
