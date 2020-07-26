@@ -3,7 +3,7 @@
 
 * Commercial Banking 
   * Mobile Integration 
-  * Rise of widespread mobile banking as deposits, cheques, and investments migrate from traditional/web platforms to mobile
+    * Rise of widespread mobile banking as deposits, cheques, and investments migrate from traditional/web platforms to mobile
 Non-cash transactions 
 An increasingly diminishing portion of transactions occur using cash due to the rise of convenience apps (uber, instacart, skip the dishes, etc) and mobile banking 
 ATMs will be obsolete 
